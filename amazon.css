@@ -28,7 +28,7 @@ div {
 .logo {
     height: 45px;
     width: 90px;
-    background-image: url("Amazon-Emblem.jpg");
+    background-image: url("amazon-images/Amazon-Emblem.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     margin: 10px;
@@ -183,7 +183,7 @@ div {
     height: 40px;
     width: 10%;
     margin: 0px;
-    background-image: url("diya.jpeg");
+    background-image: url("amazon-images/diya.jpeg");
     background-size: contain;
     background-repeat: no-repeat;
     background-color: #232f3e;
